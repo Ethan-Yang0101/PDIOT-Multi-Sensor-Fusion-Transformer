@@ -1,0 +1,6 @@
+{
+    "Sitting/Standing": 0,
+    "Lying down": 1,
+    "Walking": 2,
+    "Running": 3
+}
