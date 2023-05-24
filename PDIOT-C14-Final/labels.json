@@ -1,0 +1,16 @@
+{
+    "Climbing stairs": 0,
+    "Descending stairs": 1,
+    "Desk work": 2,
+    "Lying down left": 3,
+    "Lying down on back": 4,
+    "Lying down on stomach": 5,
+    "Movement": 6,
+    "Running": 7,
+    "Lying down right": 8,
+    "Sitting bent backward": 9,
+    "Sitting bent forward": 10,
+    "Sitting": 11,
+    "Standing": 12,
+    "Walking at normal speed": 13
+}
